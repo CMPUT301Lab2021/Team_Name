@@ -9,6 +9,6 @@ public class Shape {
     Shape(Integer x, Integer y){
         this.x = x;
         this.y = y;
-        this.color = "$PUT_YOUR_CHOICE_OF_COLOR"
+        this.color = "$PUT_YOUR_CHOICE_OF_COLOR";
     }
 }
