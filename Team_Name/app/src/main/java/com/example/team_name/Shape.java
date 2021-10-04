@@ -1,6 +1,6 @@
 package com.example.team_name;
 
-public class Shape  {
+public class Shape {
     Integer x;
     Integer y;
 
