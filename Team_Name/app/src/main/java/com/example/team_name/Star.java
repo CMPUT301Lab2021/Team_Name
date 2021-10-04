@@ -7,6 +7,6 @@ public class Star extends Shape {
 
   public Star(int sideLen) {
       this.sideLen = sideLen;
-      this.color = "yellow"
+      this.color = "green"
   }
 }
