@@ -12,4 +12,3 @@ public class Shape {
         this.color = "$PUT_YOUR_CHOICE_OF_COLOR"
     }
 }
-
