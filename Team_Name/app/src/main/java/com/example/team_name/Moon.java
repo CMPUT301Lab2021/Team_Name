@@ -1,10 +1,10 @@
 package com.example.team_name;
 
 public class Moon extends Shape{
-    String color;
-    Moon(String color, Integer x, Integer y) {
+    String color ;
+    Moon(Integer x, Integer y) {
         super(x, y);
-        this.color = color;
+        this.color = "green";
     }
 
 }
